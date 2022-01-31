@@ -8,6 +8,15 @@ A mentoria foi baseada no game Final Fantasy, contudo, para esta aplicação sel
 
 Segundo a própria Microsoft, um objeto é basicamente um bloco de memória que foi alocado e configurado de acordo com o esquema.
 
+## O que é uma Classe?
+
+Classe é justamente esse esquema de onde surgirão objetos distintos seguindo aquele padrão.
+
+## Diferença entre Classe e Objeto
+
+Logo, a diferença entre os dois conceitos é de uma classe é um trecho de código utilizado para definir como serão construídos os objetos.
+Enquanto o objeto será o resultado de um código escrito que utilizou destas definições.
+
 ## O que é Programação Orientada a Objetos (POO)?
 
 É um paradigma de programação;

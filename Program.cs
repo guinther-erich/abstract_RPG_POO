@@ -10,7 +10,7 @@ namespace abstract_RPG_POO
             Personagem darkKnight = new Personagem("GuintherBK", "Dark Knight");
             Personagem darkWizard = new Personagem("GuintherSM", "Dark Wizard");
 
-            Console.WriteLine("Olá, " + darkKnight.Nome + ", o mundo de Mu Online te espera.");
+            Console.WriteLine(darkKnight.ToString());
             Console.WriteLine("Olá, " + darkWizard.Nome + ", o mundo de Mu Online te espera.");
         }
     }

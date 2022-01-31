@@ -1,4 +1,5 @@
 ﻿using System;
+using abstract_RPG_POO.src.Entities;
 
 namespace abstract_RPG_POO
 {
@@ -6,19 +7,14 @@ namespace abstract_RPG_POO
     {
         static void Main(string[] args)
         {
-            //Representação de um personagem sem POO
-            string nome = "GuintherBK";
-            int pontosDeVida = 30;
-            int pontosdeMagia = 10;
-            string classe = "Dark Knight";
+            Personagem darkKnight = new Personagem();
+            darkKnight.Nome = "GuintherBK";
+            darkKnight.Level = 1;
+            darkKnight.PontosDeVida = 30;
+            darkKnight.PontosDeMagia = 10;
+            darkKnight.Classe = "Dark Knight";
 
-            string nome2 = "GuintherSM";
-            int pontosDeVida2 = 10;
-            int pontosdeMagia2 = 100;
-            string classe2 = "Dark Wizard";
-
-            Console.WriteLine("Olá, " + nome + ", o mundo de Mu Online te espera.");
-            Console.WriteLine("Olá, " + nome2 + ", o mundo de Mu Online te espera.");
+            Console.WriteLine("Olá, " + darkKnight.Nome + ", o mundo de Mu Online te espera.");
         }
     }
 }

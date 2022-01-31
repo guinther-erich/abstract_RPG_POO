@@ -46,3 +46,5 @@ Abstração
 Aplicação feita com C# (.NET) 5.0.404 - veja mais em documentação/versionamento
 
 Crie um novo console através do comando: `dotnet new console`
+
+![Screen](https://github.com/guinther-erich/abstract_RPG_POO/blob/main/documenta%C3%A7%C3%A3o/mu_screen.jpg)

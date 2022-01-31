@@ -8,10 +8,10 @@ namespace abstract_RPG_POO
         static void Main(string[] args)
         {
             Personagem darkKnight = new Personagem("GuintherBK", "Dark Knight");
-            Personagem darkWizard = new Personagem("GuintherSM", "Dark Wizard");
+            DarkWizard darkWizard = new DarkWizard("GuintherSM", "Dark Wizard");
 
-            Console.WriteLine(darkKnight.ToString());
-            Console.WriteLine("Olá, " + darkWizard.Nome + ", o mundo de Mu Online te espera.");
+            Console.WriteLine(darkKnight.Atacar());
+            Console.WriteLine(darkWizard.Atacar());
         }
     }
 }

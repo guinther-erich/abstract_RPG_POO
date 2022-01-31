@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "abstract_RPG_POO/1.0.0": {
+        "runtime": {
+          "abstract_RPG_POO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "abstract_RPG_POO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

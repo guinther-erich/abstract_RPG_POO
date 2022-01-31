@@ -1,0 +1,16 @@
+C:\Users\guint\Source\Repos\abstract_RPG_POO\obj\Debug\net5.0\abstract_RPG_POO.csproj.AssemblyReference.cache
+C:\Users\guint\Source\Repos\abstract_RPG_POO\obj\Debug\net5.0\abstract_RPG_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guint\Source\Repos\abstract_RPG_POO\obj\Debug\net5.0\abstract_RPG_POO.AssemblyInfoInputs.cache
+C:\Users\guint\Source\Repos\abstract_RPG_POO\obj\Debug\net5.0\abstract_RPG_POO.AssemblyInfo.cs
+C:\Users\guint\Source\Repos\abstract_RPG_POO\obj\Debug\net5.0\abstract_RPG_POO.csproj.CoreCompileInputs.cache
+C:\Users\guint\Source\Repos\abstract_RPG_POO\bin\Debug\net5.0\abstract_RPG_POO.exe
+C:\Users\guint\Source\Repos\abstract_RPG_POO\bin\Debug\net5.0\abstract_RPG_POO.deps.json
+C:\Users\guint\Source\Repos\abstract_RPG_POO\bin\Debug\net5.0\abstract_RPG_POO.runtimeconfig.json
+C:\Users\guint\Source\Repos\abstract_RPG_POO\bin\Debug\net5.0\abstract_RPG_POO.runtimeconfig.dev.json
+C:\Users\guint\Source\Repos\abstract_RPG_POO\bin\Debug\net5.0\abstract_RPG_POO.dll
+C:\Users\guint\Source\Repos\abstract_RPG_POO\bin\Debug\net5.0\ref\abstract_RPG_POO.dll
+C:\Users\guint\Source\Repos\abstract_RPG_POO\bin\Debug\net5.0\abstract_RPG_POO.pdb
+C:\Users\guint\Source\Repos\abstract_RPG_POO\obj\Debug\net5.0\abstract_RPG_POO.dll
+C:\Users\guint\Source\Repos\abstract_RPG_POO\obj\Debug\net5.0\ref\abstract_RPG_POO.dll
+C:\Users\guint\Source\Repos\abstract_RPG_POO\obj\Debug\net5.0\abstract_RPG_POO.pdb
+C:\Users\guint\Source\Repos\abstract_RPG_POO\obj\Debug\net5.0\abstract_RPG_POO.genruntimeconfig.cache

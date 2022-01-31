@@ -18,6 +18,14 @@ namespace abstract_RPG_POO.src.Entities
 		public int PontosDeVida { get; set; }
 		public int PontosDeMagia { get; set; }
 		public string Classe { get; set; }
+
+		public override string ToString()
+        {
+			return "Olá, " + this.Nome + ", o mundo de Mu Online te espera.\n"
+				+ "Seu nível é: " + this.Level + ".\n"
+				+ "A classe que você escolheu foi: " + this.Classe + ".\n"
+				+ "Seus pontos de vida são: " + this.PontosDeVida + ". E seus pontos de magia são: " + this.PontosDeMagia + ".";
+        }
 	}
 }
 

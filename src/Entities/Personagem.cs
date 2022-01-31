@@ -26,6 +26,15 @@ namespace abstract_RPG_POO.src.Entities
 				+ "A classe que você escolheu foi: " + this.Classe + ".\n"
 				+ "Seus pontos de vida são: " + this.PontosDeVida + ". E seus pontos de magia são: " + this.PontosDeMagia + ".";
         }
+
+		public virtual string Atacar()
+        {
+			Random dado = new Random();
+			int forcaDoAtaque = this.Level + dado.Next(1,20);
+
+			return this.Nome + " atacou o seu oponente com um dano de " + forcaDoAtaque + " pontos.";
+			
+        }
 	}
 }
 
